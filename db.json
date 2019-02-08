@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id":1,
+      "name": "Elliot",
+      "type": "Reader",
+      "age": 23,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "id":2,
+      "name": "Fraser",
+      "type": "Author",
+      "age": 17,
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com"
+      }
+    }
+  ],
+  "followers": [
+      {
+        "id": 1,
+        "first_name": "Walsh",
+        "last_name": "MacKean",
+        "email": "wmackean0@people.com.cn",
+        "gender": "Male",
+        "ip_address": "56.254.194.52"
+      },
+      {
+        "id": 2,
+        "first_name": "Kermit",
+        "last_name": "Moseley",
+        "email": "kmoseley1@cdbaby.com",
+        "gender": "Male",
+        "ip_address": "48.167.199.82"
+      },
+      {
+        "id": 3,
+        "first_name": "Shannon",
+        "last_name": "Steaning",
+        "email": "ssteaning2@mozilla.com",
+        "gender": "Male",
+        "ip_address": "14.47.112.49"
+      },
+      {
+        "id": 4,
+        "first_name": "Inez",
+        "last_name": "Feare",
+        "email": "ifeare3@vinaora.com",
+        "gender": "Female",
+        "ip_address": "86.192.76.113"
+      },
+      {
+        "id": 5,
+        "first_name": "Karla",
+        "last_name": "Muschette",
+        "email": "kmuschette4@com.com",
+        "gender": "Female",
+        "ip_address": "2.138.250.35"
+      },
+      {
+        "id": 6,
+        "first_name": "Erny",
+        "last_name": "Handrik",
+        "email": "ehandrik5@people.com.cn",
+        "gender": "Male",
+        "ip_address": "70.154.136.100"
+      },
+      {
+        "id": 7,
+        "first_name": "Pammie",
+        "last_name": "Callaghan",
+        "email": "pcallaghan6@prweb.com",
+        "gender": "Female",
+        "ip_address": "189.221.72.159"
+      },
+      {
+        "id": 8,
+        "first_name": "Kahlil",
+        "last_name": "Willetts",
+        "email": "kwilletts7@miibeian.gov.cn",
+        "gender": "Male",
+        "ip_address": "196.109.80.94"
+      },
+      {
+        "id": 9,
+        "first_name": "Adolf",
+        "last_name": "Casetti",
+        "email": "acasetti8@blogs.com",
+        "gender": "Male",
+        "ip_address": "69.194.135.30"
+      },
+      {
+        "id": 10,
+        "first_name": "Clerkclaude",
+        "last_name": "Fyfe",
+        "email": "cfyfe9@tuttocitta.it",
+        "gender": "Male",
+        "ip_address": "87.252.160.19"
+      }
+  ]
+}
